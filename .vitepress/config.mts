@@ -5,7 +5,7 @@ import { generateSidebar } from 'vitepress-sidebar';
 export default defineConfig({
     title: "Vitepress Template",
     description: "A VitePress Site",
-    base: "/Games_Doc/",
+    base: "/Games_Docs/",
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
