@@ -9,8 +9,8 @@ export default defineConfig({
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
-            { text: 'Home', link: '/home/' },
-            { text: '文档', link: '/home/LicheePi4A/Report_LicheePi4A_Celeste' }
+            { text: 'Home', link: '/' },
+            { text: '文档', link: '/Report_LicheePi4A_Celeste' }
         ],
 
         sidebar: generateSidebar({
