@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
+  name: "Gaming on RISC-V"
+  text: "Gaming on RISC-V"
   tagline: My great project tagline
   actions:
     - theme: brand
