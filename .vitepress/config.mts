@@ -3,8 +3,8 @@ import { generateSidebar } from 'vitepress-sidebar';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    title: "Vitepress Template",
-    description: "A VitePress Site",
+    title: "Gaming on RISC-V",
+    description: "本手册包含了如何在RISC-V开发板上运行游戏",
     base: "/Games_Docs/",
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
