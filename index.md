@@ -11,7 +11,7 @@ hero:
       link: /LicheePi4A/Report_LicheePi4A_Celeste
     - theme: alt
       text: Github
-      link: /https://github.com/DuoQilai/Games_Docs
+      link: https://github.com/DuoQilai/Games_Docs
 
 features:
   - title: 懂点儿RV
