@@ -4,22 +4,18 @@ layout: home
 
 hero:
   name: "Gaming on RISC-V"
-  text: "Gaming on RISC-V"
-  tagline: My great project tagline
+  tagline: 本手册包含了如何在RISC-V上玩游戏
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 立即开始
+      link: /LicheePi4A/Report_LicheePi4A_Celeste
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Github
+      link: /https://github.com/DuoQilai/Games_Docs
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 懂点儿RV
+    details: https://www.bilibili.com/video/BV1sm421g7YP/?spm_id_from=333.999.0.0&vd_source=417238cd96b1b549d14bcb35a9da3cf0
+  - title: Arduino for Milk-V Duo
+    details: https://www.bilibili.com/video/BV1NSYLehE1h/?spm_id_from=333.999.0.0&vd_source=417238cd96b1b549d14bcb35a9da3cf0
 ---
-
