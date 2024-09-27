@@ -27,9 +27,7 @@ make -j4
 ```
 ## 3 下载并解包 Celeste Linux
 
-试玩地址：https://archive.org/details/celeste-v-1.4.0.0-linux
-
-下载7zip版本
+官网地址：[Celeste (celestegame.com)](https://www.celestegame.com/#:~:text=Celeste is an engaging game that challenges players to climb)
 
 ## 4 运行 Celeste Linux
 
