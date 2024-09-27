@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 立即开始
-      link: /LicheePi4A/Report_LicheePi4A_Celeste
+      link: /README
     - theme: alt
       text: Github
       link: https://github.com/DuoQilai/Games_Docs
