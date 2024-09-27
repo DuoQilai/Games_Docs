@@ -10,3 +10,4 @@
 
 1. fork本仓库
 2. 新建目录或markdown文档，或者修改已有的markdown文档
+3. 提交pr
