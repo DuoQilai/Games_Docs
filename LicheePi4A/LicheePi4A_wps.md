@@ -200,3 +200,5 @@ box64 ./wpp		# 运行 PPT
 ```
 
 演示链接：
+
+[【计算浮桥】RISC-V翻译执行WPS_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vTxyeTEAo/?spm_id_from=333.999.0.0&vd_source=417238cd96b1b549d14bcb35a9da3cf0)
